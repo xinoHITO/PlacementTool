@@ -1,2 +1,2 @@
 # PlacementTool
-Tool to floor objects based on a LayerMask. Has options tu customize raycast check.
+Tool to floor objects based on a LayerMask. Has options to customize raycast check.
